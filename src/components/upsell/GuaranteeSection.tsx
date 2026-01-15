@@ -4,12 +4,12 @@ export const GuaranteeSection = () => {
       <div className="guarantee-box p-6 md:p-12 rounded-3xl text-center max-w-4xl mx-auto">
         <div className="text-5xl md:text-6xl mb-4 md:mb-6">🛡️</div>
         
-        <h2 className="text-2xl md:text-3xl lg:text-4xl text-accent font-bold mb-6 md:mb-8">GARANTÍA ANTI-RIESGO 7 DÍAS</h2>
+        <h2 className="text-2xl md:text-3xl lg:text-4xl text-accent font-bold mb-6 md:mb-8">GARANTÍA ANTI-RIESGO 30 DÍAS</h2>
         
         <div className="h-0.5 bg-accent/30 max-w-xs mx-auto mb-8 md:mb-10" />
         
         <div className="text-left max-w-2xl mx-auto text-muted-foreground text-base md:text-lg leading-relaxed">
-          <p className="mb-4 md:mb-5">Usa el sistema durante <strong className="text-foreground">7 días completos</strong>.</p>
+          <p className="mb-4 md:mb-5">Usa el sistema durante <strong className="text-foreground">30 días completos</strong>.</p>
           
           <p className="mb-4 md:mb-5">Si no te mantiene <strong className="text-accent">más organizado, más motivado, más enfocado</strong>...</p>
           

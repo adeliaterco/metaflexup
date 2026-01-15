@@ -41,7 +41,7 @@ export const HotmartWidget = () => {
         <div className="mt-6 md:mt-10 text-accent leading-relaxed text-sm md:text-base">
           <p>
             ✓ App + Planificador + 2 Bonus<br />
-            ✓ Acceso inmediato | ✓ Garantía 7 días<br />
+            ✓ Acceso inmediato | ✓ Garantía 30 días<br />
             ✓ Sin riesgos | ✓ Pago 100% seguro
           </p>
         </div>
